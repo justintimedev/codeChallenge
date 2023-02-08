@@ -1,2 +1,2 @@
 # codeChallenge
-This is a repository to hold my Freecode camp coding challenges
+This is a repository to hold my coding challenges
