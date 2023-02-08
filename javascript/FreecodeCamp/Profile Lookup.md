@@ -12,7 +12,7 @@ If name does not correspond to any contacts then return the string No such conta
 
 If prop does not correspond to any valid properties of a contact found to match name then return the string No such property.
 
-'''javascript
+```javascript
 // Setup
 const contacts = [
   {
@@ -57,4 +57,4 @@ function lookUpProfile(name, prop) {
 }
 
 lookUpProfile("Akira", "likes");
-'''
+```
